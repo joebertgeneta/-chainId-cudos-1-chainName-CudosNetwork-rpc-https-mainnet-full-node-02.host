@@ -1,0 +1,1 @@
+# -chainId-cudos-1-chainName-CudosNetwork-rpc-https-mainnet-full-node-02.host
